@@ -15,7 +15,7 @@
 - 🎓 Currently studying **M.Sc. Computational Modeling and Simulation** with focus on **Applied Artificial Intelligence** at **TU Dresden**
 - 🧬 B.Sc. in **Agricultural Biology** with focus on **Data Analysis and Food Informatics** from **University of Hohenheim**
 - 💻 Interested in **AI, data science, web development, IoT, Linux systems, and full-stack applications**
-- 🔧 Experience with **Python, JavaScript, React, Flask, SQL, Docker, Linux, Arduino, and R**
+- 🔧 Experience with **Python, JavaScript, Java, C#, SQL, Docker, Linux, Arduino, and R**
 - 📍 Based in **Dresden, Germany**
 - 📫 Reach me at **[grigorybaranov2@gmail.com](mailto:grigorybaranov2@gmail.com)**
 
